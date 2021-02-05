@@ -1,5 +1,10 @@
 # NY Inspector Slides
 
+## Pre-requisites
+Python 3.x
+Chocolately
+Cmder or any Unix emulator
+
 ## Install Steps
 
 `python -m venv inspector`    
