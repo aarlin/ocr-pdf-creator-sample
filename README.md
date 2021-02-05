@@ -2,11 +2,11 @@
 
 ## Install Steps
 
-python -m venv inspector  
-inspector\Scripts\activate.bat  
-choco install --pre tesseract  
-choco install ghostscript  
-pip install -r requirements.txt  
+`python -m venv inspector`    
+`inspector\Scripts\activate.bat`    
+`choco install --pre tesseract`    
+`choco install ghostscript`  
+`pip install -r requirements.txt`    
 
 ## Commands
 
