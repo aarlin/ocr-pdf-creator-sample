@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 Python 3.x  
-Chocolately  
+Chocolatey  
 Cmder  
 
 ## Install Steps
