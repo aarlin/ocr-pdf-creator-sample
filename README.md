@@ -1,9 +1,9 @@
 # NY Inspector Slides
 
 ## Pre-requisites
-Python 3.x
-Chocolately
-Cmder or any Unix emulator
+Python 3.x  
+Chocolately  
+Cmder  
 
 ## Install Steps
 
