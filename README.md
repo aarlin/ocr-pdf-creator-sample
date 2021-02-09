@@ -1,5 +1,7 @@
 # NY Inspector Slides
 
+Create text searchable pdf from jpg
+
 ## Pre-requisites
 Python 3.x  
 Chocolatey  
